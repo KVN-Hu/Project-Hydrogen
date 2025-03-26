@@ -1,0 +1,440 @@
+{
+  "uuid": "cb16130072c8bcc14c8092d65afa2eb9",
+  "path": "Offline/Project%20Hydrogen",
+  "name": "Project Hydrogen",
+  "content": "",
+  "created_at": "2024-12-17 13:03:21",
+  "updated_at": "2025-03-26 14:21:13",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9f905b1e5bcff48bb5f607020503940d",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "301c76a9e79f436c85751d80deff47be": 1,
+        "04b7d8073e854006b41709a96b7a21a9": 1,
+        "a2fcebaac7aa499e98505d133bab536c": 1,
+        "6a4014184e324ee78822e76881d8a383": 1,
+        "154b66255b01a09bf1c88bb1ea89be78": 2,
+        "f5ddbd27d1434670877eef41d0bcb3f4": 2,
+        "b27fbfe343a943a0b726cdc31167ef54": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          4,
+          "C0603",
+          "C1,C1,C2,C2",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "10uF",
+          4,
+          "C0603",
+          "C3,C3,C4,C4",
+          {
+            "Manufacturer Part": "CGA0603X5R106K100JT",
+            "Manufacturer": "HRE(芯声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6119842"
+          }
+        ],
+        [
+          "BSMD0603L-100",
+          1,
+          "F0603",
+          "F1",
+          {
+            "Manufacturer Part": "BSMD0603L-100",
+            "Manufacturer": "BHFUSE(佰宏)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2757929"
+          }
+        ],
+        [
+          "XL-1608UWC-06A",
+          2,
+          "LED0603-RD_1",
+          "LED1,LED1",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "GL823K-HCY04",
+          2,
+          "SSOP-16_L4.9-W3.9-P0.64-LS6.0-BL",
+          "MASTER1,MASTER1",
+          {
+            "Manufacturer Part": "GL823K-HCY04",
+            "Manufacturer": "GENESYS(创惟)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C284879"
+          }
+        ],
+        [
+          "MKDV2GCL-ABG",
+          2,
+          "LGA-8_L8.0-W6.0-P1.27-TL",
+          "NAND1,NAND1",
+          {
+            "Manufacturer Part": "MKDV2GCL-ABG",
+            "Manufacturer": "MK(米客方德)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C42381021"
+          }
+        ],
+        [
+          "1kΩ",
+          2,
+          "R0603",
+          "R1,R1",
+          {
+            "Manufacturer Part": "RT0603DRD071KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C165964"
+          }
+        ],
+        [
+          "5.1K",
+          2,
+          "R0603",
+          "R2,R3",
+          {
+            "Manufacturer Part": "RMC06035.1K5%N",
+            "Manufacturer": "Tyohm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C269696"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "R0603",
+          "R4",
+          {
+            "Manufacturer Part": "RS-03K1002FT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C115324"
+          }
+        ],
+        [
+          "TYPE-C 16PIN 2MD(073)",
+          2,
+          "USB-C-SMD_TYPE-C-6PIN-2MD-073",
+          "USB1,USB1",
+          {
+            "Manufacturer Part": "TYPE-C 16PIN 2MD(073)",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2765186"
+          }
+        ]
+      ],
+      "updateTime": 1742862251,
+      "createTime": 1708573055,
+      "histories": [],
+      "created_at": "2024-02-22 11:37:35",
+      "updated_at": "2025-03-25 08:24:11"
+    },
+    {
+      "uuid": "4578331bd4b6c9ff2f6e7547bb6058f7",
+      "title": "Mod II",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b8db58a44c7a46eeab2d4fa587eaa776": 2,
+        "9cbd05b68a684bafba8b96803be51408": 1,
+        "fe639b53226a4c358395ab19f862d1db": 1,
+        "301c76a9e79f436c85751d80deff47be": 1,
+        "04b7d8073e854006b41709a96b7a21a9": 1,
+        "a2fcebaac7aa499e98505d133bab536c": 1,
+        "6a4014184e324ee78822e76881d8a383": 1,
+        "154b66255b01a09bf1c88bb1ea89be78": 2,
+        "f5ddbd27d1434670877eef41d0bcb3f4": 2,
+        "b27fbfe343a943a0b726cdc31167ef54": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          4,
+          "C0603",
+          "C1,C1,C2,C2",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "10uF",
+          4,
+          "C0603",
+          "C3,C3,C4,C4",
+          {
+            "Manufacturer Part": "CGA0603X5R106K100JT",
+            "Manufacturer": "HRE(芯声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6119842"
+          }
+        ],
+        [
+          "BSMD0603L-100",
+          1,
+          "F0603",
+          "F1",
+          {
+            "Manufacturer Part": "BSMD0603L-100",
+            "Manufacturer": "BHFUSE(佰宏)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2757929"
+          }
+        ],
+        [
+          "XL-1608UWC-06A",
+          2,
+          "LED0603-RD_1",
+          "LED1,LED1",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "GL823K-HCY04",
+          2,
+          "SSOP-16_L4.9-W3.9-P0.64-LS6.0-BL",
+          "MASTER1,MASTER1",
+          {
+            "Manufacturer Part": "GL823K-HCY04",
+            "Manufacturer": "GENESYS(创惟)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C284879"
+          }
+        ],
+        [
+          "MKDV2GCL-ABG",
+          2,
+          "LGA-8_L8.0-W6.0-P1.27-TL",
+          "NAND1,NAND1",
+          {
+            "Manufacturer Part": "MKDV2GCL-ABG",
+            "Manufacturer": "MK(米客方德)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C42381021"
+          }
+        ],
+        [
+          "1kΩ",
+          2,
+          "R0603",
+          "R1,R1",
+          {
+            "Manufacturer Part": "RT0603DRD071KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C165964"
+          }
+        ],
+        [
+          "5.1K",
+          2,
+          "R0603",
+          "R2,R3",
+          {
+            "Manufacturer Part": "RMC06035.1K5%N",
+            "Manufacturer": "Tyohm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C269696"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "R0603",
+          "R4",
+          {
+            "Manufacturer Part": "RS-03K1002FT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C115324"
+          }
+        ],
+        [
+          "TYPE-C 16PIN 2MD(073)",
+          2,
+          "USB-C-SMD_TYPE-C-6PIN-2MD-073",
+          "USB1,USB1",
+          {
+            "Manufacturer Part": "TYPE-C 16PIN 2MD(073)",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2765186"
+          }
+        ]
+      ],
+      "updateTime": 1742379441,
+      "createTime": 1741751230,
+      "histories": [],
+      "created_at": "2025-03-12 11:47:10",
+      "updated_at": "2025-03-19 18:17:21"
+    },
+    {
+      "uuid": "b4ee936dce9d590c9a8c8973543ac2ec",
+      "puuid": "cb16130072c8bcc14c8092d65afa2eb9",
+      "title": "PCB_Project Hydrogen",
+      "filename": "PCB_Project Hydrogen.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "cd6719ed8c574a09b32fb331f0732768": 1,
+        "f8151fdc728a41ebbc304e11d39e5437": 4,
+        "bcfb063b67ff49cbac709cca5af36bb2": 1,
+        "c8b4652cfc3749079b12700c0fcb7b2c": 1,
+        "398691f1f785460098bbe5ee6590333c": 1,
+        "5a7e9ad3682242f88608293ce637ea1d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          2,
+          "C0603",
+          "C1,C2",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "C0603",
+          "C3,C4",
+          {
+            "Manufacturer Part": "CGA0603X5R106K100JT",
+            "Manufacturer": "HRE(芯声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C6119842"
+          }
+        ],
+        [
+          "XL-1608UWC-06A",
+          1,
+          "LED0603-RD_1",
+          "LED1",
+          {
+            "Manufacturer Part": "XL-1608UWC-06A",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C7371902"
+          }
+        ],
+        [
+          "GL823K-HCY04",
+          1,
+          "SSOP-16_L4.9-W3.9-P0.64-LS6.0-BL",
+          "MASTER1",
+          {
+            "Manufacturer Part": "GL823K-HCY04",
+            "Manufacturer": "GENESYS(创惟)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C284879"
+          }
+        ],
+        [
+          "MKDV8GIL-AS",
+          1,
+          "LGA-8_L6.0-W8.0-P1.27-TL",
+          "NAND1",
+          {
+            "Manufacturer Part": "MKDV8GIL-AS",
+            "Manufacturer": "MK(米客方德)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C379094"
+          }
+        ],
+        [
+          "1kΩ",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Manufacturer Part": "RT0603DRD071KL",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C165964"
+          }
+        ],
+        [
+          "TYPE-C 16PIN 2MD(073)",
+          1,
+          "USB-C-SMD_TYPE-C-6PIN-2MD-073",
+          "USB1",
+          {
+            "Manufacturer Part": "TYPE-C 16PIN 2MD(073)",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2765186"
+          }
+        ]
+      ],
+      "updateTime": 1741655238,
+      "createTime": 1735877754,
+      "histories": [],
+      "created_at": "2025-01-03 12:15:54",
+      "updated_at": "2025-03-11 09:07:18"
+    }
+  ],
+  "sort": [
+    "9f905b1e5bcff48bb5f607020503940d",
+    "4578331bd4b6c9ff2f6e7547bb6058f7"
+  ],
+  "title": "Project Hydrogen",
+  "foldername": "Project Hydrogen",
+  "schfilename": "Project Hydrogen.json",
+  "schfilemtime": 1742862251443
+}
